@@ -5,3 +5,4 @@ function exit_button() {
 function toggle_play() {}
 function increase_speed(amount) {}
 function decrease_speed(amount) {}
+function rewind() {}
